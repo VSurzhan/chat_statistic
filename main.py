@@ -33,12 +33,7 @@ for sub in subjects_data.keys():
     note = note_collect(sub)
     bodynote = {"requests": note}
     update_sht(subjects_data[sub]['spreadsheet_id'], bodynote)
-    #data = [{"range": 'Статистика (ПБ)', "values": body}]
-    #bodydata = {"valueInputOption": 'RAW', "data": data}
-
-
-
-    #if sub != 'phys' and sub != 'rus_oge':
+    
     body = collect(sub)
     data = [{"range": 'Статистика (ПБ)', "values": body}]
     bodydata = {"valueInputOption": 'RAW', "data": data}
