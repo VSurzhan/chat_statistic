@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "infra-throne-406022",
+  "private_key_id": "1eec3df9bdf57a1cdc549c592b4e375761c97a2a",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQCWxwIaXbu7PGyy\n1dVpx378gJQ5HwdJY/qHq5soP6vPFGZ76Ve2gDUwij6vysgrFumukgINi+fCtD0j\njh2QowB88fqN0ZXrnkxslBG5HM9LQ0fZ0S4YYw8umcCcjLeFTURV7Jhn+y0d8tps\nhkF5d1PHT8I91mzpaRjI8LHOZATPwzoI2E/xr6P2f0b8tXSINFY8iDbMg2xaexV7\nXsOAkYhy8UEwTllNJu554C4PwQz3jIoJQ/PmmHi5gyUJoaCsmt3Sw0+ZfutqaMZC\ncUO7ePOHTMqcbKTzkybMH7h/Kh2qnyWC0zLQ9k3JJBNb+JYNkzTFfdRmQRyfRqQM\nH8kbwks7AgMBAAECggEADolgUAdydpJUToekPD8SJKkG4Vz2+GHtwQ/P9TjySRRH\n7zFnlf5VYnkpowwzcUgTvpNwJDs1XIXBEUD947h7bxBrXinzQNSxvJQoA0deSvzR\nHBR5U7uVNqJ3OgCtHup8qKYXaYsDZgxId8cX3+ybxK8RZKHcPUK3M4RVODdXaWpc\ntCFfSxO4vSqH7b0872gMhyq/JK6hZmUHVVTT2BJA3hJh7CoYA5zNZ+GnyDwolbhV\nctrl+viecb83gEJzOcq+AVgTuRlxY5mIDpuOoe6qjWJOblCma4/K3Khx1Chj0EOG\n1keJNnweBeoOV+2N1b30Oq+jFnp1kwOElMnzt0t3BQKBgQDJjrjc5l4V4UKJSpV5\nhV8mE6luwJcRds7FAP2Xc/aCdkHsJUmJxDAtoEEBWU5cV2dQWKJa9k5/8DDp6qKL\nHtMf5vBZyyP/ifDKZiwKSTFEwu34b1oxo2J7U9HRpqD72Hx6UUqcsC8JL4qXdI8j\nu7DLR2Lm2CMfzZUVRnxD5XKblwKBgQC/gPJbtYaETYsisOxGbPcFhzNTXRDLuak0\npjYYtPxivDGSKNFOxFjxZqfB5Zc47RanLTlWF7T6VNoClQBHrriTrgiufaky2+ny\n5pjrrS2XTmn4aw7lUQhHS9iMP3+Cv79mjA0ieXRU3anCzri5wfr3RcC/pVnjZX30\n8NkAT1KR/QKBgEElDf7nvjUYL2csYg962fv2kuam/Ky6V6442b3fzybvjfMDQjdy\n35d/mkMTWE5kOZIwc5kuzsRvH4AbRBnvBpHjFIARNjtbnCXuzAEvEuuEjWGkq+Qr\nSKNPvhsi3hlIKUNnjtQB5dH0ObkmBTWpbkTld8Pgy8l1qt/LflJ7kIVVAoGBAI8a\nP4ESg+Onwnn49Yam9Gx4HH2GBQAHzA5gyfnqfNMXSH+s6sPOa5xwlpmJBFjwqkXg\nwIC6FG4gLA1T5LKsOJd6rFgf5OjxdsAhW1J5xaDUYtHUxnvL8sC8R6R96r38pX1u\n2H3Tfn/QaIP/UADXmL9gq2lKmYIYnGgF9lKJ8+zNAoGBAIbLNNjk2BFdX1PKN8zj\nRghn1a209D94rS2xNN3XbBMnBPMpRV3V3xFketi/vBqcILB9pbxwfsEWqDrstwIJ\nYSA5fZMFmmltemDalehpd93YUs3x1bCDi6dXaduXiFlODl1UmsvtqWvOruGGJ8Ew\n2rIGkv7lpJvVhparcFXgbD90\n-----END PRIVATE KEY-----\n",
+  "client_email": "vsurzhan@infra-throne-406022.iam.gserviceaccount.com",
+  "client_id": "118164026681112269842",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/vsurzhan%40infra-throne-406022.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
